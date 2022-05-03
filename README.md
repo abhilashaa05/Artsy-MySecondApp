@@ -1,4 +1,4 @@
-# artsy
+# Artsy
 
 A new Flutter project.
 
